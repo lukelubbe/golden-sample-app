@@ -70,7 +70,7 @@ The project uses the latest versions of the tools and libraries.
 
 - For AWS environments with specific WAF configurations, you may need to use `http://0.0.0.0:4200/` when accessing the app locally, in order to successfully authenticate.
 
-- For you local development, setup backbase npm registry using the following commands:
+- For your local development, setup backbase npm registry using the following commands:
 
   - Run the following command in your npm client. When prompted, provide your Artifactory login credentials and email:
     ```
